@@ -1,0 +1,31 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "YOUR_RSS_FEED_URL_HERE"
+<p align="center">
+connect with me :
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="YOUR_MEDIUM_URL">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
