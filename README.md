@@ -52,3 +52,5 @@
 </div>
 
 ### ✍️ Latest Blog Posts
+
+![](https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg)
