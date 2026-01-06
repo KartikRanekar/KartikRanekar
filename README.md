@@ -68,6 +68,18 @@ connect with me :
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+### Activity Overview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg" alt="Activity Overview">
+</p>
+
+### 🚀 Most used languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+</div>
 ### ✍️ Latest Blog Posts
 
 ![](https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg)
