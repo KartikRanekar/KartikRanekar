@@ -67,7 +67,6 @@
 </div>
 
 ### 🚀 Most used languages
-
 <div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
