@@ -40,3 +40,35 @@
     </td>
   </tr>
 </table>
+### 🚀 Most used languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+</div>
+### 📈 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikRanekar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+### Activity Overview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg" alt="Activity Overview">
+</p>
+<p align="center">
+connect with me :
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartik-ranekar-5b2388324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:kartikranekar2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
