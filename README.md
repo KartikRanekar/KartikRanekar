@@ -27,7 +27,7 @@
 
  ### 🚀 Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
@@ -35,25 +35,19 @@
 
 ### 🧩 Libraries & Framework
 
-
+![ReactNative](https://img.shields.io/badge/-ReactNative%20JS-05122A?style=flat&logo=react&logoColor=0000FF)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=white)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=Ff7043)&nbsp;
-![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit&logoColor=FF0000)&nbsp;
-![Open CV](https://img.shields.io/badge/-open%20CV-05122A?style=flat&logo=opencv&logoColor=00FF00)&nbsp;
 ![Fast API](https://img.shields.io/badge/-fastapi-05122A?style=flat&logo=fastapi&logoColor=00FF00)&nbsp;
-![React](https://img.shields.io/badge/-React%20JS-05122A?style=flat&logo=react&logoColor=0000FF)&nbsp;
 
 ### 🧑🏻‍💻 Tools & Platform
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=Ff7043)&nbsp;
 ![Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=googlecolab&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=1572B6)&nbsp;
 ![Github Action](https://img.shields.io/badge/-Github%20Action-05122A?style=flat&logo=githubactions&logoColor=1572B6)&nbsp;
 
 ### 📈 Stats
@@ -66,12 +60,15 @@
 
 </div>
 
+### ✍️ Latest Blog Posts
 ### 🚀 Most used languages
+
 <div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
 
 </div>
+
 <p align="center">
   ### connect with me :
 <p align="center">
