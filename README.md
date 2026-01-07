@@ -60,7 +60,6 @@
 
 </div>
 
-### ✍️ Latest Blog Posts
 ### 🚀 Most used languages
 
 <div align="center">
@@ -83,11 +82,8 @@
 	</a>
 </p>	
 </p>
-### Activity Overview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg" alt="Activity Overview">
-</p>
 
+### Activity Overview
 ![](https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg)
 ---
 
