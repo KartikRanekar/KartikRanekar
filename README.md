@@ -83,7 +83,12 @@
 	</a>
 </p>	
 </p>
+### Activity Overview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg" alt="Activity Overview">
+</p>
 
+![](https://raw.githubusercontent.com/KartikRanekar/KartikRanekar/master/profile-summary-card-output/default/0-profile-details.svg)
 ---
 
 
