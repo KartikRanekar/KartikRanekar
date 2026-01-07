@@ -58,16 +58,18 @@
 
 ## 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KartikRanekare&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikRanekar&hide_border=true&theme=radical" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikRanekar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
-## 🔝 Most used languages
+### 🚀 Most used languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+</div>
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=radical" />
-
   ### connect with me :
 <p align="center">
 	<a href="https://www.linkedin.com/in/atharva-malode-074414206/">
