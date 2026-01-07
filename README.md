@@ -56,19 +56,23 @@
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=1572B6)&nbsp;
 ![Github Action](https://img.shields.io/badge/-Github%20Action-05122A?style=flat&logo=githubactions&logoColor=1572B6)&nbsp;
 
-## 📈 Stats
+### 📈 Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikRanekar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-### 🚀 Most used languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikRanekar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
 </div>
 
+### 🚀 Most used languages
+
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikRanekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
+
+</div>
 <p align="center">
   ### connect with me :
 <p align="center">
