@@ -1,4 +1,5 @@
 name: GitHub-Profile-Summary-Cards
+
 on:
   schedule:
     - cron: "0 * * * *"
