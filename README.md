@@ -37,58 +37,133 @@ I’ve also worked as an **AI Research Intern at UptoSkills (SyncAura AI)**, con
 
 ---
 
-## 02 / SELECTED BUILDS
+## ✦ SELECTED BUILDS
 
-<div align="center">
+<p>
+  A collection of projects exploring applied AI, intelligent automation,
+  machine learning, and full-stack engineering.
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 &nbsp; RISKGUARD</h3>
-      <p><b>Explainable transaction fraud detection</b></p>
-      <p>ML-based risk scoring paired with SHAP explanations, an investigation workspace, human review, and AI-generated audit briefs.</p>
-      <p><sub>PYTHON · RANDOM FOREST · SHAP · FASTAPI · REACT · GEMINI</sub></p>
-      <a href="https://github.com/KartikRanekar/Random_Forest_Powered_Transaction_Fraud_Detector">EXPLORE REPOSITORY ↗</a>
+      <h3>01 · RiskGuard</h3>
+      <p><b>Explainable AI-Powered Fraud Detection</b></p>
+      <p>
+        A fraud investigation platform combining Random Forest predictions,
+        SHAP-based explainability, and AI-generated audit briefs.
+        Features a risk command center and human-in-the-loop decision workflow.
+      </p>
+      <p>
+        <sub>PYTHON · FASTAPI · RANDOM FOREST · SHAP · REACT · GEMINI</sub>
+      </p>
+      <a href="https://github.com/KartikRanekar/Random_Forest_Powered_Transaction_Fraud_Detector">
+        ↗ Explore Project
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 &nbsp; ACADEMIC AI</h3>
-      <p><b>Autonomous writing &amp; review agent</b></p>
-      <p>Academic text refinement, evidence retrieval, claim verification, and consolidated research analysis in one workflow.</p>
-      <p><sub>REACT · VITE · NODE.JS · EXPRESS · TAVILY · LLM APIS</sub></p>
-      <a href="https://github.com/KartikRanekar/Academic-Writing-Agent">EXPLORE REPOSITORY ↗</a>
+      <h3>02 · Academic AI</h3>
+      <p><b>Autonomous Academic Writing & Review Agent</b></p>
+      <p>
+        An AI-powered research assistant for academic writing refinement,
+        evidence retrieval, autonomous claim verification, and
+        consolidated research analysis.
+      </p>
+      <p>
+        <sub>REACT · VITE · TAILWIND · NODE.JS · EXPRESS · TAVILY · LLM APIs</sub>
+      </p>
+      <a href="https://github.com/KartikRanekar/Academic-Writing-Agent">
+        ↗ Explore Project
+      </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>03 &nbsp; MULTI-PURPOSE AGENT SUITE</h3>
-      <p><b>A practical collection of AI utilities</b></p>
-      <p>A Gemini-powered toolkit for chat, summarisation, tone conversion, resume bullets, study plans, captions, and design themes.</p>
-      <p><sub>PYTHON · GEMINI API · MODULAR CLI</sub></p>
-      <a href="https://github.com/KartikRanekar/Multi-Purpose-Agent">EXPLORE REPOSITORY ↗</a>
+      <h3>03 · Multi-Purpose Agent Suite</h3>
+      <p><b>Gemini-Powered AI Productivity Toolkit</b></p>
+      <p>
+        A modular collection of AI utilities featuring conversational
+        memory, text summarization, tone transformation, resume enhancement,
+        content generation, and personalized study planning.
+      </p>
+      <p>
+        <sub>PYTHON · GEMINI API · MODULAR AI WORKFLOWS</sub>
+      </p>
+      <a href="https://github.com/KartikRanekar/Multi-Purpose-Agent">
+        ↗ Explore Project
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>04 &nbsp; PRODUCTION RAG LAB</h3>
-      <p><b>Learning retrieval systems by building</b></p>
-      <p>An active hands-on build exploring document ingestion, embeddings, vector search, and retrieval-augmented generation.</p>
-      <p><sub>PYTHON · LANGCHAIN · CHROMA · LANGGRAPH · HUGGING FACE</sub></p>
-      <a href="https://github.com/KartikRanekar/Production_RAG_with_Vector_Database_LangChain">EXPLORE REPOSITORY ↗</a>
+      <h3>04 · Production RAG</h3>
+      <p><b>Retrieval-Augmented Generation & Vector Search</b></p>
+      <p>
+        An ongoing engineering build exploring document retrieval,
+        semantic embeddings, vector databases, and LLM-powered
+        question-answering pipelines.
+      </p>
+      <p>
+        <sub>PYTHON · LANGCHAIN · CHROMA · LANGGRAPH · HUGGING FACE · GEMINI · GROQ</sub>
+      </p>
+      <a href="https://github.com/KartikRanekar/Production_RAG_with_Vector_Database_LangChain">
+        ↗ Explore Project
+      </a>
+      <br>
+      <sub>Currently building ↗</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 · Fashion-MNIST Classifier</h3>
+      <p><b>Image Classification with Neural Networks</b></p>
+      <p>
+        A deep learning implementation using a Multi-Layer Perceptron (MLP)
+        to classify 28×28 grayscale Fashion-MNIST images into 10 apparel
+        categories. Includes data normalization, model training,
+        validation, and prediction.
+      </p>
+      <p>
+        <sub>PYTHON · TENSORFLOW · KERAS · NUMPY · MATPLOTLIB</sub>
+      </p>
+      <a href="https://github.com/KartikRanekar/Image_Classification_with_Neural_Networks">
+        ↗ Explore Project
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 · Task Manager</h3>
+      <p><b>Cross-Platform Mobile Application</b></p>
+      <p>
+        A mobile task management application featuring Firebase
+        authentication, real-time Firestore data synchronization,
+        and structured task management.
+      </p>
+      <p>
+        <sub>REACT NATIVE · EXPO · FIREBASE · FIRESTORE</sub>
+      </p>
+      <a href="https://github.com/KartikRanekar/TaskManager-App-using-Expo">
+        ↗ Explore Project
+      </a>
     </td>
   </tr>
 </table>
-</div>
-
-<details>
-  <summary><b>More projects &amp; experiments</b> — open to explore</summary>
-  <br />
-
-  - **[Task Manager Mobile App](https://github.com/KartikRanekar/TaskManager-App-using-Expo)** — cross-platform task management with Firebase authentication and Firestore.
-  - **[Resume Screening with ML](https://github.com/KartikRanekar/Resume_Screening_with_Mchine_Learning)** — resume text processing, TF-IDF features, and job-category classification.
-  - **[Hate Speech Detection](https://github.com/KartikRanekar/Hate_Speech_Detection_Model)** — NLP preprocessing and text classification for content moderation.
-  - **[Transaction Fraud Detection](https://github.com/KartikRanekar/Random_Forest_Powered_Transaction_Fraud_Detector)** — model evaluation, explainability, and a full-stack investigation workflow.
-  - **[AI / ML Repository](https://github.com/KartikRanekar/AI_ML_Repo)** — foundational model training, data exploration, and evaluation.
-</details>
 
 ---
 
+### ◈ MORE FROM THE LAB
+
+| Project | Focus |
+|:--|:--|
+| [Resume Screening with ML](https://github.com/KartikRanekar/Resume_Screening_with_Mchine_Learning) | NLP · TF-IDF · Resume Classification |
+| [Hate Speech Detection](https://github.com/KartikRanekar/Hate_Speech_Detection_Model) | NLP · Text Preprocessing · Classification |
+| [AI/ML Experiments](https://github.com/KartikRanekar/AI_ML_Repo) | Machine Learning · EDA · Model Evaluation |
+| [Transaction Fraud Detection](https://github.com/KartikRanekar/Random_Forest_Powered_Transaction_Fraud_Detector) | Ensemble Learning · Explainable AI |
+
+<p align="center">
+  <sub>BUILDING · EXPERIMENTING · ITERATING</sub>
+</p>
+
+---
 ## 03 / THE TOOLKIT
 
 <p><b>CORE LANGUAGES</b></p>
